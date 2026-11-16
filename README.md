@@ -1,8 +1,8 @@
  # File Encryption Tool
 
 A command-line program written in C that encrypts and decrypts both text files and images using a password-derived shift cipher.
+![](Plaintext.png)
 
-![573](encrypted.png)
 ![579](encrypted.png)
 
 ## why i built it 
