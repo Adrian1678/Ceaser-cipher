@@ -1,0 +1,8 @@
+.DS_Store
+encrypt
+file_encryption
+encrypt.dSYM/
+random_plaintext.txt
+decryption.txt
+encrypted.txt
+decrypted_image.HEIC
